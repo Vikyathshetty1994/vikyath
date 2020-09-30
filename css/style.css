@@ -8162,7 +8162,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #ffbd39 !important; }
+  color: #ffff00!important; }
 
 .ftco-navbar-light {
   background: transparent !important;
@@ -8310,7 +8310,7 @@ h1, h2, h3, h4, h5,
           padding-right: 0 !important;
           padding-bottom: 20px !important; } }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #ffbd39 !important; }
+      color: #ffff00!important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
       background: #ffbd39;
@@ -8347,7 +8347,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .nav-link {
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #ffbd39 !important; }
+        color: #ffff00!important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -8713,19 +8713,19 @@ h1, h2, h3, h4, h5,
     outline: none; }
   .btn.btn-primary {
     background: #ffbd39;
-    border: 1px solid #ffbd39 !important;
+    border: 1px solid #ffff00!important;
     color: #000000 !important; }
     .btn.btn-primary:hover {
-      border: 1px solid #ffbd39 !important;
-      background: #ffbd39 !important;
+      border: 1px solid #ffff00!important;
+      background: #ffff00!important;
       color: #000000 !important; }
     .btn.btn-primary.btn-outline-primary {
-      border: 2px solid #ffbd39 !important;
+      border: 2px solid #ffff00!important;
       background: transparent !important;
-      color: #ffbd39 !important; }
+      color: #ffff00!important; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 2px solid transparent !important;
-        background: #ffbd39 !important;
+        background: #ffff00!important;
         color: #fff !important; }
   .btn.btn-secondary {
     background: #a0f669 !important;
@@ -9053,7 +9053,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #ffbd39 !important; }
+  background: #ffff00!important; }
 
 .about-author {
   -webkit-border-radius: 5px;
